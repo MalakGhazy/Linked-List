@@ -1,3 +1,0 @@
-D:/ITI - Cloud/Data Structure & Algorithms/Day 1/Task1/cmake-build-debug/CMakeFiles/Task1.dir
-D:/ITI - Cloud/Data Structure & Algorithms/Day 1/Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/ITI - Cloud/Data Structure & Algorithms/Day 1/Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
